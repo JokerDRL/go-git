@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("git connect test")
+	fmt.Println("git connect test successful！")
 }
